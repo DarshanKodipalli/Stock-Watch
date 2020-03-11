@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_new_stock"
+        android:icon="@drawable/baseline_add_circle_white_48"
+        android:title="Add New Stock"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/deleteAllRecords"
+        android:icon="@drawable/baseline_delete_white_48"
+        android:title="Remove All"
+        app:showAsAction="always" />
+</menu>

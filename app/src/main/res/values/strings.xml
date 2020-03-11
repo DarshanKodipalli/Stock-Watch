@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">    Stock Watch</string>
+    <string name="api_key">pk_7ebda2ec18cf4e07b5fb108085cf2b49</string>
+    <string name="DB_NAME">SWDB</string>
+    <string name="Table">SWTable</string>
+    <string name="Stock_Symbol">symbol</string>
+    <string name="Stock_Name">name</string>
+
+</resources>
